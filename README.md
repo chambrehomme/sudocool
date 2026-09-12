@@ -92,3 +92,8 @@ allows:
    network connection.
 2. **Server-side performance:** The Ktor server reuses the identical codebase for faster level and
    hint generation.
+
+## Contributors
+
+- **Nina Zimmermann** – [LinkedIn](https://www.linkedin.com/in/nina-zimmermann-082a6b254/) • [GitHub](https://github.com/chambrehomme)
+- **Jeremy van der Schans** – [LinkedIn](https://www.linkedin.com/in/jeremy-van-der-schans-395107249/) • [GitHub](https://github.com/vandeje1)
