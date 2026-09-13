@@ -58,7 +58,12 @@ difficulties.
   ```bash
   ./gradlew :app:androidApp:installDebug
   ```
-  *Or run directly from Android Studio selecting the `androidApp` run configuration.*
+  Then open the app on the emulator or connected device or alternatively start it via adb:
+  ```bash
+  brew install android-platform-tools # if not installed yet
+  adb shell monkey -p ch.sifakas.sudocool 1
+  ```
+  *Or run directly from Android Studio by selecting the `androidApp` run configuration.*
 
 - **iOS App:**
   Open `app/iosApp` in Xcode and select your target simulator or device, or run via Android Studio
