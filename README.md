@@ -26,7 +26,7 @@ difficulties.
 │   ├── androidApp/     # Android application launcher & configuration
 │   ├── iosApp/         # Xcode project wrapper for iOS launch & SwiftUI integration
 │   └── shared/         # Shared Compose Multiplatform UI & presentation logic
-├── core/               # Shared data models
+├── core/               # Shared API & data models
 │   └── src/commonMain/ # Sudoku algorithms for board generation and solver logic shared by client and server
 └── server/             # Ktor backend application
 ```
