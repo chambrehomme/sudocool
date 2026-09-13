@@ -14,6 +14,8 @@ difficulties.
 - **Custom Board Generator:** On demand generation of unique Sudoku levels.
 - **Intelligent Hint Engine:** Helpful hints that adapt to your needs, ranging from a gentle nudge
   toward your next move to an in-depth breakdown of the underlying strategy behind a move.
+- **Camera Import Scanner:** Snap a picture of any paper Sudoku to instantly import and digitize
+  it into the app.
 
 ---
 
