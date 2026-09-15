@@ -9,7 +9,7 @@
 This document defines how we collaborate on our sudocool project.
 
 As a personal hobby project, our primary focus is combining our shared interests in Sudoku and
-software engineering. We aim to enjoy the development process, experiment with new techn
+software engineering. We aim to enjoy the development process, experiment with new technologies.
 
 Our goal is not only to build a functional Sudoku app, but also to make it enjoyable, well-designed,
 and technically interesting, while exploring our own ideas and preferences along the way.
@@ -23,7 +23,7 @@ and technically interesting, while exploring our own ideas and preferences along
 | **Jeremy van der Schans** | Developer | [LinkedIn](https://www.linkedin.com/in/jeremy-van-der-schans-395107249/) |
 | **Nina Zimmermann**       | Developer | [LinkedIn](https://www.linkedin.com/in/nina-zimmermann-082a6b254/)       |
 
-There are no fixed roles in the project. Both team members share responsibility for the project:
+There are no fixed roles in the project. Both team members share the following responsibilities for the project:
 
 * Development
 * Architecture and technical decisions
@@ -76,7 +76,7 @@ Therefore, we explicitly encourage:
 
 ## Organization & Workflow
 
-Since this is a free-time project, we do not follow a strict agile framework. We organize our work
+Since this is a passion project, we do not follow a strict agile framework. We organize our work
 flexibly around our available free time.
 
 ### Communication & Meetings
@@ -112,7 +112,7 @@ and what we want to do next.
 An issue or PR is considered **done** when:
 
 - [ ] Code is reviewed and approved by the non-authoring team member
-- [ ] Code is cleanly wirtten, understandable and merged into `main` branch
+- [ ] Code is clean, maintainable, understandable and merged into `main` branch
 - [ ] All relevant tests pass successfully
 - [ ] Documentation is created or updated
 
