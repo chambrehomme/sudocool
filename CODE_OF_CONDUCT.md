@@ -161,7 +161,7 @@ We do not accept:
 By signing this document, we agree to follow these principles and contribute to the project in a
 respectful and collaborative way.
 
-| Name                  | Date       | Signature     |
-|-----------------------|------------|---------------|
-| Nina Zimmermann       | 13.09.2026 | N. Zimmermann |
-| Jeremy van der Schans |            |               |
+| Name                  | Date       | Signature         |
+|-----------------------|------------|-------------------| 
+| Nina Zimmermann       | 13.09.2026 | N. Zimmermann     |
+| Jeremy van der Schans | 16.09.2026 | J. van der Schans |
